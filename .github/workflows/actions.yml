@@ -1,7 +1,7 @@
 name: run main.py
 on:
   schedule:
-    - cron: '0 8-17 * * *' # At minute 0 past every hour from 8 through 17
+    - cron: '0 2-12 * * *' # At minute 0 past every hour from 8 am through 6 pm
 jobs:
   build:
     runs-on: ubuntu-latest
