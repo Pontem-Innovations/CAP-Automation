@@ -1614,3 +1614,19 @@
 2022-09-27 04:09:25,621 - __main__ - INFO - {'success': True}
 2022-09-27 04:09:26,249 - __main__ - INFO - {'success': True}
 2022-09-27 04:09:35,989 - __main__ - INFO - {'success': True}
+2022-09-27 05:58:58,305 - __main__ - INFO - {'success': False, 'error': "(pyodbc.OperationalError) ('08S01', '[08S01] [Microsoft][ODBC Driver 17 for SQL Server]TCP Provider: Error code 0x68 (104) (SQLExecDirectW)')\n[SQL: \n        DELETE FROM [cJCCM]\n        DBCC CHECKIDENT ('[cJCCM]', RESEED, 0)\n        ]\n(Background on this error at: https://sqlalche.me/e/14/e3q8)"}
+2022-09-27 05:59:02,496 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:07,985 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:09,252 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:10,775 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:14,145 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:15,616 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:16,005 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:19,112 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:23,135 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:24,813 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:25,580 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:26,774 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:28,124 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:28,566 - __main__ - INFO - {'success': True}
+2022-09-27 05:59:38,547 - __main__ - INFO - {'success': True}
