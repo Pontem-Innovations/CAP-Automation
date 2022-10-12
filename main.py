@@ -132,5 +132,12 @@ if __name__ == "__main__":
         data = json.loads(r.text)
         print(data)
         logger.info(data)
+        
+    r = requests.get('https://capconnect.azurewebsites.net/refresh/gl-accounts/4UhjlvAFQCBFPDb5UrA3u3yhozyEwoS3')
+    if r.status_code == 200:
+        r.encoding='utf-8-sig'
+        data = json.loads(r.text)
+        print(data)
+        logger.info(data)
 
     print(f"--- {time.time() - start_time} seconds ---")
