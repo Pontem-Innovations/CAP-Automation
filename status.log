@@ -9550,3 +9550,19 @@
 2022-11-13 12:05:15,368 - __main__ - INFO - {'success': True}
 2022-11-13 12:05:15,902 - __main__ - INFO - {'success': True}
 2022-11-13 12:05:29,562 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:34,666 - __main__ - INFO - {'success': False, 'error': "(pyodbc.OperationalError) ('08S01', '[08S01] [Microsoft][ODBC Driver 17 for SQL Server]TCP Provider: Error code 0x274C (10060) (SQLExecDirectW)')\n[SQL: \n        DELETE FROM [cJCCM]\n        DBCC CHECKIDENT ('[cJCCM]', RESEED, 0)\n        ]\n(Background on this error at: https://sqlalche.me/e/14/e3q8)"}
+2022-11-14 02:40:36,857 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:42,995 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:44,318 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:46,482 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:50,309 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:51,611 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:52,309 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:54,924 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:57,875 - __main__ - INFO - {'success': True}
+2022-11-14 02:40:59,267 - __main__ - INFO - {'success': True}
+2022-11-14 02:41:00,435 - __main__ - INFO - {'success': True}
+2022-11-14 02:41:01,747 - __main__ - INFO - {'success': True}
+2022-11-14 02:41:03,993 - __main__ - INFO - {'success': True}
+2022-11-14 02:41:04,558 - __main__ - INFO - {'success': True}
+2022-11-14 02:41:15,956 - __main__ - INFO - {'success': True}
